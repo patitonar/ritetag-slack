@@ -25,3 +25,13 @@ Type ``` /ritestats #shoes ``` and you will get
 3. Config Slash Command On Slack
 
 ![slack](https://cloud.githubusercontent.com/assets/4614574/12128827/953a8de2-b3de-11e5-9dca-98ca73b4be00.png)
+
+##For more information visit
+
+https://ritetag.com
+
+https://bitbucket.org/ritetag/ritetag-api-client/
+
+http://docs.ritetag.apiary.io
+
+https://api.slack.com/
