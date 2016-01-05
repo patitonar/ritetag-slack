@@ -3,6 +3,7 @@
 
 
 Type ``` /ritestats #shoes ``` and you will get
+
 ![slashimage](https://cloud.githubusercontent.com/assets/4614574/12128823/8f2bfef4-b3de-11e5-88ab-ed6ea8ce9446.png)
 
 
