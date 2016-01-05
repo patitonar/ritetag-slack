@@ -1,0 +1,20 @@
+{
+    "name": "ritetag/api",
+    "description": "RiteTag Api Client",
+    "version": "2.0.0",
+    "homepage": "https://ritetag.com",
+    "type": "project",
+    "authors": [
+        {
+            "name": "RiteTag"
+        }
+    ],
+    "require": {
+        "php": ">= 5.3.7",
+        "ritetag/api": "~2.0.0"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
