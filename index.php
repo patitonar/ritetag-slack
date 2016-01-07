@@ -7,16 +7,14 @@ $STATUS=[
     3 => "*Hot* *Now*"
 ];
 
-$command = $_POST['command'];
-$text = trim($_POST['text'],'#');
-$token = $_POST['token'];
-
 error_reporting(E_ALL);
 ini_set('error_reporting', E_ALL);
 ini_set('display_errors', 1);
 
 require_once 'vendor/autoload.php';
 require_once 'config.php';
+
+$text = trim($_POST['text'],'#');
 
 $client = new \Ritetag\API\Client(CONSUMER_KEY, CONSUMER_SECRET, OAUTH_TOKEN, OAUTH_TOKEN_SECRET);
 $body= json_decode($client->hashtagStats($text)->getBody());
