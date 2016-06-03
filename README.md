@@ -1,10 +1,7 @@
 # RiteTag Slack
 ##Ritetag slash commands integration for slack
 
-
-Type ``` /ritestats #shoes ``` and you will get
-
-![slashimage](https://cloud.githubusercontent.com/assets/4614574/12128823/8f2bfef4-b3de-11e5-88ab-ed6ea8ce9446.png)
+![hashtags](https://cloud.githubusercontent.com/assets/4614574/15795422/c2073bc2-29c7-11e6-81b8-ffe6bb378594.png)
 
 ###1. Install via composer
 
