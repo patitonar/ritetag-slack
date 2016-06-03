@@ -27,7 +27,9 @@
   define('HASHTAGSFOR_COMMAND',"/hashtagsfor");
   ```
 
-![slack](https://cloud.githubusercontent.com/assets/4614574/12128827/953a8de2-b3de-11e5-9dca-98ca73b4be00.png)
+![hashtag](https://cloud.githubusercontent.com/assets/4614574/15795569/33fb456a-29c9-11e6-9774-8d8d17208409.png)
+![hashtagsfor](https://cloud.githubusercontent.com/assets/4614574/15795570/341c1b32-29c9-11e6-90d0-3011d2526b2c.png)
+
 
 ##For more information visit
 
