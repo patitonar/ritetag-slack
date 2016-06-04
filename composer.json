@@ -2,7 +2,7 @@
     "name": "patitonar/ritetag-slack",
     "description": "Ritetag slash commands integration for slack",
     "keywords": ["ritetag","slack","slash"],
-    "version": "0.0.1",
+    "version": "0.1.0",
     "type": "project",
     "license": "MIT",
     "authors": [
