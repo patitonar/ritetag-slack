@@ -4,6 +4,7 @@
     "keywords": ["ritetag","slack","slash"],
     "version": "0.0.1",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "Gerardo Nardelli",
