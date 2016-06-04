@@ -5,7 +5,7 @@
 
 ###1. Install via composer
 
-`composer install`
+`composer require patitonar/ritetag-slack:~0.1.0`
 
 ###2. Config RiteTag
 
