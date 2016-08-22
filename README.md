@@ -1,5 +1,6 @@
 # RiteTag Slack
 ##Ritetag slash commands integration for slack
+Get Twitter engagement analytics on any hashtag, and recommended hashtags for a topic directly in Slack using a simple slash command
 
 ![hashtags](https://cloud.githubusercontent.com/assets/4614574/15795422/c2073bc2-29c7-11e6-81b8-ffe6bb378594.png)
 
